@@ -3,6 +3,8 @@ This script is executed for each folder in WW save datapack folder to modify the
 
 parser.js is executed per folder and modifies all existing .mcfunction files.
 
+TO ADD THE PLAYER , YOU NEED TO ALSO DO SOME MANUAL STUFF!
+
 
 Example :
 ```
